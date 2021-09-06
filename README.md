@@ -4,7 +4,7 @@
 
 - 🖥 Hoje sou Estagiária de Desenvolvimento Full Stack
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 💻 Aprendendo Java
+- 💻 Aprendendo Java, SpringBoot, React, Javascript
 - 📫 Contato: https://linkedin.com/in/malufreirejau e malufreirejau@yahoo.com.br
 
  <div>
