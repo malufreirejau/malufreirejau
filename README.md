@@ -2,9 +2,9 @@
 
 
 
-- 🖥 Hoje sou Estagiária de Desenvolvimento Full Stack
+- 🖥 Estagiária de Desenvolvimento Full Stack
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 💻 Aprendendo Java, SpringBoot, React, Javascript
+- 💻 Aprendendo Java, SpringBoot, React, Javascript, Apache Kakfa, Mulesoft e Python
 - 📫 Contato: https://linkedin.com/in/malufreirejau e malufreirejau@yahoo.com.br
 
 <div>
@@ -15,6 +15,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -39,6 +40,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/05/MuleSoft-Logo.png">   
 
   ##
  
