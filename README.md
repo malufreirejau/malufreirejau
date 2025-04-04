@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://github.com/malufreirejau">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malufreirejau&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
@@ -41,7 +41,7 @@
   <img align="center" alt="Kafka" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"> 
-  <img align="center" alt="Dart" height="30" width="40" src="https://symbols.getvecta.com/stencil_88/124_mulesoft-icon.4555ee19ea.svg">  
+    
 
   
   ##
