@@ -1,10 +1,8 @@
-### Olá! Eu sou a Malu, em transição de carreira para a área de Desenvolvimento após advogar por 21 anos.
 
 
-
-- 🖥 Estagiária de Desenvolvimento Full Stack
-- 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 💻 Aprendendo Java, SpringBoot, React, Javascript, Apache Kakfa, Mulesoft, Python e Flutter.
+- 🖥 Desenvolvedora Full Stack
+- 📚 Cursando Pós graduação em Desenvolvimento Full Stack e Desenvolvimento Mobile
+- 💻 Aprendendo Golang e Solidify.
 - 📫 Contato: https://linkedin.com/in/malufreirejau e malufreirejau@yahoo.com.br
 
 <div>
